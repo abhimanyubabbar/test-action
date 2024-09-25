@@ -1,0 +1,14 @@
+[
+  {
+    "type": "track",
+    "event": "Load Test",
+    "anonymousId": "anon-1",
+    "messageId": "message-1",
+    "properties": {
+      "review_id": "86ac1cd43",
+      "product_id": "9578257311",
+      "rating": 3.0,
+      "review_body": "OK for the price. It works but the material feels flimsy."
+    }
+  }
+]

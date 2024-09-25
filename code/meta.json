@@ -1,0 +1,20 @@
+{
+  "transformations": [
+    {
+      "file": "./code/transformEvent.py",
+      "name": "transformation using action",
+      "description": "simple transformation using github action",
+      "language": "pythonfaas",
+      "test-input-file": "./code/data/input.json",
+      "expected-output": "./code/data/output.json"
+    }
+  ],
+  "libraries": [
+    {
+      "file": "./code/md5.py",
+      "name": "md5",
+      "description": "python library to simply get md5 data",
+      "language": "pythonfaas"
+    }
+  ]
+}
